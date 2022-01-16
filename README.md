@@ -1,8 +1,8 @@
 
 
 
-Header Banner
-![](https://media-exp1.licdn.com/dms/image/C5616AQGahHFH_41LQQ/profile-displaybackgroundimage-shrink_350_1400/0/1642083146924?e=1647475200&v=beta&t=oCOcffUZ5VRgp5idDR-FSa1hMyRk0TosY11x_dlZhro)
+
+![]()
 
 Profile View
 ![Profile views](https://gpvc.arturio.dev/alon-karmona1)  
