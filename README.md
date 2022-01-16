@@ -19,10 +19,13 @@
 ✅Python<br>
 ✅Java<br>
 
+🔰**EXPERIENCE:**<br>
+☑️Data Integration Engineer.<br>
+☑️Cloud Monitoring Engineer.<br>
+☑️Field Sales Agent.<br>
 
 
-
-🕎**MY ACCIVEMENT/CERTIFICATIONS:** <br> 
+🏆**MY ACCIVEMENT/CERTIFICATIONS:** <br> 
 ☑AWS Certified Cloud Practitioner <br> 
 
 
