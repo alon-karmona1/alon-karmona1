@@ -33,10 +33,9 @@
 
 
 
-🕎**MY ACCIVEMENT/LICENCES/CERTIFICATIONS Experience:** <br> 
-☑ Data Integration Engineer <br> 
-☑ Cloud Monitoring Engineer.<br> 
-☑ Lawrence Technological University logo Six Sigma Black Belt Certification –Level I.<br> 
+🕎**MY ACCIVEMENT/CERTIFICATIONS:** <br> 
+☑ AWS Certified Cloud Practitioner <br> 
+
 
 
 
