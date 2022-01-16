@@ -21,29 +21,30 @@
 
 
 
+🎡**Skills & Experience:**<br>
+✅HTML<br>
+✅CSS<br>
+✅OOP<br>
+✅JavaScript<br>
+✅SQL<br>
+✅Python<br>
+✅Java<br>
 
-🟢**SKRILLS:** <br> 
-✅  HTML <br>
-✅ CSS <br>
-✅ JS <br> 
-✅ REACT <br>
-✅ VUE JS <br>
 
 
 
-
-🕎**MY ACCIVEMENT/LICENCES/CERTIFICATIONS:** <br> 
-☑ Google Data Analytics Certificate. <br> 
-☑ Certified Associate in Project Management-(CAPM).<br> 
+🕎**MY ACCIVEMENT/LICENCES/CERTIFICATIONS Experience:** <br> 
+☑ Data Integration Engineer <br> 
+☑ Cloud Monitoring Engineer.<br> 
 ☑ Lawrence Technological University logo Six Sigma Black Belt Certification –Level I.<br> 
 
 
 
 
-🔭 I’m currently working on **Programming** <br>
+<!-- 🔭 I’m currently working on **Programming** <br>
 🌱 I’m currently learning **JavaScript** <br>
 💬 Ask me about **Web Development** <br>
-📫 How to reach me: **** <br>
+📫 How to reach me: **** <br> -->
 
 
  
