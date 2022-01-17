@@ -31,10 +31,10 @@
 ☑AWS Certified Cloud Practitioner.<br> 
 
 
-🛑HOW TO REACH ME:
+🛑HOW TO REACH ME:<br> 
 ✔️Facebook: **[alon.karm](https://www.facebook.com/alon.karm)<br>**
 ✔️Linkedin: **[alonkarmona](https://www.linkedin.com/in/alonkarmona/)<br>**
-✔️E-Mail: **karmona21@gmail.com**
+✔️E-Mail: **karmona21@gmail.com**<br> 
 
 
 
