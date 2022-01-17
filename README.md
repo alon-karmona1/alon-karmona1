@@ -28,7 +28,13 @@
 
 
 🏆**MY ACCIVEMENT/CERTIFICATIONS:** <br> 
-☑AWS Certified Cloud Practitioner <br> 
+☑AWS Certified Cloud Practitioner.<br> 
+
+
+🛑HOW TO REACH ME:
+✔️Facebook: **[alon.karm](https://www.facebook.com/alon.karm)<br>**
+✔️Linkedin: **[alonkarmona](https://www.linkedin.com/in/alonkarmona/)<br>**
+✔️E-Mail: **karmona21@gmail.com**
 
 
 
