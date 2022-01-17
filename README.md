@@ -6,11 +6,17 @@
 ![Profile views](https://gpvc.arturio.dev/alon-karmona1)  
 
 <!-- Title & About -->
-### Hi There 👋, <br> I'm Alon Karmona <br> Data Integration Engineer at Optimove.
+### Hi There 👋, <br> I'm Alon Karmona <br>
+Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering at Ben-Gurion University (Majoring in Information Systems). My objectives are mainly to work in Data Engineering and Programing areas. I'm highly motivated and fast learner with creative thinking and excellent interpersonal skills.<br>
+
+🔰**MY EDUCATION:**<br>
+🎗️2017-2021: B.Sc in Industrial Engineering at Ben-Gurion University, majoring in Information Systems.<br>
+🎗️Relevant courses: Physics (100), Java (90), Machine Leaning (92), Electrical & Electronic. Eng. (88). <br>
+🎗️2009-2012: "MOR" High school, Maccabim-Reut, Israel. <br>
+🎗️Specializations: Physics, Mathematics, Economics and English. <br>
 
 
-
-🎡**MY SKILLS:**<br>
+🎡**MY PROGRAMMING SKILLS:**<br>
 ✅HTML<br>
 ✅CSS<br>
 ✅OOP<br>
@@ -18,12 +24,37 @@
 ✅SQL<br>
 ✅Python<br>
 ✅Java<br>
+✅C# & R<br>
+
+🎡**DATA ENGINEERING TOOLS:**<br>
+⏩SSIS, Matillion, Snowflake, SQL server, MySQL.<br>
+
+🎡**OTHER TOOLS:**<br>
+⏩Zendesk, Git, Postman, Jira, Grafana, Kibana, Excel, AWS, GCP, AZURE, Office.<br>
 
 
-🔰**EXPERIENCE:**<br>
-☑️Data Integration Engineer.<br>
-☑️Cloud Monitoring Engineer.<br>
-☑️Field Sales Agent.<br>
+🔰**WORK EXPERIENCE:**<br>
+☑️2021-2022: Data Integration Engineer at Optimove:<br>
+✓Constructing custom ETL processes: Design and implementation of data pipelines and data marts, access versatile data sources, and apply data quality measures.<br>
+✓Designing new and maintain existing databases for optimal performance. Optimizing Data Warehousing process with Partitioning and Indexing.<br>
+✓Working side by side and support the Data Science and Customer Success teams in order to meet customer business needs.<br>
+✓Developing & maintaining automation processes with Python to increase work productivity.<br>
+✓Investigating data mismatches and apply solutions, using complex SQL and stored procedures. <br>
+
+☑️2020-2021: Cloud Monitoring Engineer at Spot by Netapp:<br>
+✓Investigating cloud environments and responding to technical problems to improve system efficiencies.<br>
+✓Analyzing  customers' challenges and performing major changes that influence production services and architecture, based on personal insights and Data Analysis.<br>
+✓Using SQL complex queries and profound understanding of the DB design to enhance production processes.<br>
+
+☑️2018-2020: Small Business Owner of manufacturing and marketing wooden creative wall signs.<br>
+
+
+
+
+🔰**MILITARY SERVICE:**<br>
+🔵2012-2015: Professional deep-water diver fighter in the special Under-Water Missions Unit (“YALTAM”):<br>
+✓Dive team commander in special missions' dives.<br>
+✓Teamwork operation under pressure in complex dive missions.<br>
 
 
 
@@ -31,10 +62,22 @@
 ☑AWS Certified Cloud Practitioner.<br> 
 
 
-🛑HOW TO REACH ME:<br> 
+🏆**VOLUNTEER ACTIVITIES:**<br>
+🟢2009-2012: Instructor at “MACCABI-TZAIR” Youth Movement, Maccabim-Reut, Israel. <br>
+🟢2017: Counselor in the Jewish Agency Summer-Camp in Massachusetts, USA. <br>
+🟢2019: Instructor in “Heroes for Life” delegation in schools in Kathmandu, Nepal.<br>
+
+
+Ⓜ️**LANGUAGES:**<br> 
+🔷Hebrew: Native.<br> 
+🔷English: Proficient.<br> 
+
+
+**🛑HOW TO REACH ME:**<br> 
 ✔️Facebook: **[alon.karm](https://www.facebook.com/alon.karm)<br>**
 ✔️Linkedin: **[alonkarmona](https://www.linkedin.com/in/alonkarmona/)<br>**
 ✔️E-Mail: **karmona21@gmail.com**<br> 
+
 
 
 
