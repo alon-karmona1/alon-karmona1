@@ -23,7 +23,7 @@ Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering 
 
 
 🔨&nbsp;&nbsp;**DATA ENGINEERING TOOLS:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSIS, Matillion, Snowflake, SQL server, MySQL, GBQ.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matillion, SSIS, Snowflake, SQL server, MySQL, GBQ.<br>
 
 🔧&nbsp;&nbsp;**OTHER TOOLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zendesk, Git, Postman, Jira, Grafana, Kibana, Excel, AWS, GCP, AZURE, Office.<br>
