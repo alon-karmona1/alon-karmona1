@@ -11,15 +11,15 @@ Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering 
 
 
 🎡**MY PROGRAMMING SKILLS:**<br>
-   ✅Python<br>
-   ✅SQL<br>
-   ✅Java<br>
-   ✅R<br>
-   ✅C#<br>
-   ✅HTML<br>
-   ✅CSS<br>
-   ✅JavaScript<br>
-   ✅OOP<br>
+   ✓ "   Python<br>"
+   ✓ "   SQL<br>
+   ✓ "   Java<br>
+   ✓ "   R<br>
+   ✓ "   C#<br>
+   ✓ "   HTML<br>
+   ✓ "   CSS<br>
+   ✓ "   JavaScript<br>
+   ✓ "   OOP<br>
 
 
 🎡**DATA ENGINEERING TOOLS:**<br>
