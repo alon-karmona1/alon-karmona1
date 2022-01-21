@@ -7,55 +7,55 @@
 
 <!-- Title & About -->
 ### Hi , <br> I'm Alon Karmona <br>
-Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering at Ben-Gurion University (Majoring in Information Systems). My objectives are mainly to work in Data Engineering and Programing areas. I'm highly motivated and fast learner with creative thinking and excellent interpersonal skills.<br>
+Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering at Ben-Gurion University (Majoring in Information Systems). My objectives are mainly to work in Data Engineering and Programing areas.<br>
 
 
-🎡**MY PROGRAMMING SKILLS:**<br>
-   ✓ "   Python<br>"
-   ✓ "   SQL<br>
-   ✓ "   Java<br>
-   ✓ "   R<br>
-   ✓ "   C#<br>
-   ✓ "   HTML<br>
-   ✓ "   CSS<br>
-   ✓ "   JavaScript<br>
-   ✓ "   OOP<br>
+📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ R<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ C#<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ HTML<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ JavaScript<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ OOP<br>
 
 
-🎡**DATA ENGINEERING TOOLS:**<br>
-   SSIS, Matillion, Snowflake, SQL server, MySQL, GBQ.<br>
+🔨&nbsp;&nbsp;**DATA ENGINEERING TOOLS:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSIS, Matillion, Snowflake, SQL server, MySQL, GBQ.<br>
 
-🎡**OTHER TOOLS:**<br>
-   Zendesk, Git, Postman, Jira, Grafana, Kibana, Excel, AWS, GCP, AZURE, Office.<br>
+🔧&nbsp;&nbsp;**OTHER TOOLS:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zendesk, Git, Postman, Jira, Grafana, Kibana, Excel, AWS, GCP, AZURE, Office.<br>
 
+<br><br>
+⭐&nbsp;&nbsp;**WORK EXPERIENCE:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏ 2021-2022: Data Integration Engineer at Optimove:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓ Constructing custom ETL processes: Design and implementation of data pipelines and data marts, access versatile data sources, and apply data quality measures.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓ Designing new and maintain existing databases for optimal performance. Optimizing Data Warehousing process with Partitioning and Indexing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓ Working side by side and support the Data Science and Customer Success teams in order to meet customer business needs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓ Developing & maintaining automation processes with Python to increase work productivity.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓ Investigating data mismatches and apply solutions, using complex SQL and stored procedures. <br>
 
-🔰**WORK EXPERIENCE:**<br>
-☑️ 2021-2022: Data Integration Engineer at Optimove:<br>
-      ✓ Constructing custom ETL processes: Design and implementation of data pipelines and data marts, access versatile data sources, and apply data quality measures.<br>
-      ✓ Designing new and maintain existing databases for optimal performance. Optimizing Data Warehousing process with Partitioning and Indexing.<br>
-      ✓ Working side by side and support the Data Science and Customer Success teams in order to meet customer business needs.<br>
-      ✓ Developing & maintaining automation processes with Python to increase work productivity.<br>
-      ✓ Investigating data mismatches and apply solutions, using complex SQL and stored procedures. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏ 2020-2021: Cloud Monitoring Engineer at Spot by Netapp:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Investigating cloud environments and responding to technical problems to improve system efficiencies.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Analyzing  customers' challenges and performing major changes that influence production services and architecture, based on personal insights and Data Analysis.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Using SQL complex queries and profound understanding of the DB design to enhance production processes.<br>
 
-☑️ 2020-2021: Cloud Monitoring Engineer at Spot by Netapp:<br>
-      ✓ Investigating cloud environments and responding to technical problems to improve system efficiencies.<br>
-      ✓ Analyzing  customers' challenges and performing major changes that influence production services and architecture, based on personal insights and Data Analysis.<br>
-      ✓ Using SQL complex queries and profound understanding of the DB design to enhance production processes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏ 2018-2020: Small Business Owner of manufacturing and marketing wooden creative wall signs.<br>
+<br><br>
+📚&nbsp;&nbsp;**MY EDUCATION:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘2017-2021: B.Sc in Industrial Engineering at Ben-Gurion University, majoring in Information Systems.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant courses: Physics (100), Java (90), Machine Leaning (92), Electrical & Electronic. Eng. (88). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📗2009-2012: "MOR" High school, Maccabim-Reut, Israel. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specializations: Physics, Mathematics, Economics and English. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎗AWS Certified Cloud Practitioner.<br> 
 
-☑️ 2018-2020: Small Business Owner of manufacturing and marketing wooden creative wall signs.<br>
-
-🔰**MY EDUCATION:**<br>
-   🎗2017-2021: B.Sc in Industrial Engineering at Ben-Gurion University, majoring in Information Systems.<br>
-      Relevant courses: Physics (100), Java (90), Machine Leaning (92), Electrical & Electronic. Eng. (88). <br>
-   🎗2009-2012: "MOR" High school, Maccabim-Reut, Israel. <br>
-      Specializations: Physics, Mathematics, Economics and English. <br>
-   🎗AWS Certified Cloud Practitioner.<br> 
-
-
-**🛑 HOW TO REACH ME:**<br> 
-✔️Facebook: **[alon.karm](https://www.facebook.com/alon.karm)<br>**
-✔️Linkedin: **[alonkarmona](https://www.linkedin.com/in/alonkarmona/)<br>**
-✔️E-Mail: **karmona21@gmail.com**<br> 
+<br><br>
+**📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Facebook: **[alon.karm](https://www.facebook.com/alon.karm)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[alonkarmona](https://www.linkedin.com/in/alonkarmona/)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **karmona21@gmail.com**<br> 
 
 
 
