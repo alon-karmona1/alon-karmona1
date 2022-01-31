@@ -1,12 +1,10 @@
 <!-- Banner -->
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQEeva3nB2AfFw/profile-displaybackgroundimage-shrink_350_1400/0/1618844573751?e=1648080000&v=beta&t=c1ZrbUTcNW82uPnoTcUrBhKttrg4G1vUidbT-QHO34M)
 
-
-<!-- Profile View -->
-![Profile views](https://gpvc.arturio.dev/alon-karmona1)  
+ 
 
 <!-- Title & About -->
-### Hi , <br> I'm Alon Karmona <br>
+### <br> Alon Karmona <br>
 Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering at Ben-Gurion University (Majoring in Information Systems). My objectives are mainly to work in Data Engineering and Programing areas.<br>
 
 
