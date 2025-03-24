@@ -5,8 +5,6 @@
 
 <!-- Title & About -->
 ### <br> Alon Karmona <br>
-Data Integration Engineer at Optimove, Graduated in B.sc Industrial Engineering at Ben-Gurion University (Majoring in Information Systems). My objectives are mainly to work in Data Engineering and Programing areas.<br>
-
 
 📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
